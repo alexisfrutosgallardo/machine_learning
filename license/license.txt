@@ -1,0 +1,24 @@
+## Licencia
+
+Este proyecto fue desarrollado únicamente con fines educativos y de práctica, utilizando un dataset público obtenido de [Kaggle](https://www.kaggle.com).
+
+El código y los análisis aquí presentados están licenciados bajo la Licencia Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Esto significa que:
+
+- Puedes usar, copiar y distribuir este proyecto libremente para fines no comerciales.
+- Debes atribuir el trabajo a los autores originales.
+
+Creative Commons Attribution-NonCommercial 4.0 International
+
+You are free to:
+
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material.
+
+Under the following terms:
+
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial: You may not use the material for commercial purposes.
+
+No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full license details can be found at https://creativecommons.org/licenses/by-nc/4.0/
